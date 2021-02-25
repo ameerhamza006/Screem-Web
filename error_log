@@ -1,0 +1,5 @@
+[26-Jan-2021 08:15:47 UTC] PHP Warning:  Unterminated comment starting line 204 in /home/edgeofwheels/public_html/user/storage/framework/views/54a57d8e7192385fbc5b651729218e15633c1c38.php on line 204
+[11-Feb-2021 11:12:43 UTC] PHP Fatal error:  Cannot use [] for reading in /home/edgeofwheels/public_html/apppend/app/Http/Controllers/CreditsController.php on line 66
+[11-Feb-2021 11:13:36 UTC] PHP Fatal error:  Cannot use [] for reading in /home/edgeofwheels/public_html/apppend/app/Http/Controllers/CreditsController.php on line 66
+[13-Feb-2021 17:03:11 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/edgeofwheels/public_html/apppend/app/Models/User.php on line 12
+[13-Feb-2021 17:04:25 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/edgeofwheels/public_html/apppend/app/Models/User.php on line 12
